@@ -1,14 +1,5 @@
 # 🧠 Cognitive Dissonance CLI
 
-```
-   _____              _     _               _              
-  / ____|            | |   (_)             | |             
- | |     ___  _ __ __| |__  _ _ __ ___  ___| |_ ___  _ __  
- | |    / _ \| '__/ _` |\ \| | '__/ _ \/ __| __/ _ \| '__| 
- | |___| (_) | | | (_| | | | | | |  __/\__ \ || (_) | |    
-  \_____\___/|_|  \__,_| |_|_|_|  \___||___/\__\___/|_|    
-```
-
 A weird little browser game that looks like a command line but acts like something's watching you.
 
 You type. It responds. Sometimes truthfully.
